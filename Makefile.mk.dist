@@ -1,0 +1,5 @@
+# project service name
+NAME := mailtplsrv
+
+# add -race to GOFLAGS if RACE=1
+RACE=0

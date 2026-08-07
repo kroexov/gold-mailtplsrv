@@ -1,0 +1,7 @@
+{
+  "test": "BLACK FRIDAY",
+  "discount": 70,
+  "promoCode": "BLACKFRIDAY",
+  "shopUrl": "https://example.com/black-friday",
+  "daysLeft": 1
+}

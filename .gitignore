@@ -1,0 +1,9 @@
+.idea
+.vscode
+.DS_Store
+cfg/local.toml
+coverage.txt
+coverage.xml
+Makefile.mk
+debug.html
+/mailtplsrv

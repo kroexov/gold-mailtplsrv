@@ -1,0 +1,7 @@
+{
+  "test": "SALE",
+  "discount": 50,
+  "promoCode": "SALEONSALE",
+  "shopUrl": "https://example.com/shop",
+  "daysLeft": 3
+}

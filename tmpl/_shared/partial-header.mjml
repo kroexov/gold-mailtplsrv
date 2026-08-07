@@ -1,0 +1,9 @@
+<mj-section background-color="#000000" background-repeat="no-repeat" text-align="center">
+  <mj-column>
+    <mj-image align="center" border="none" padding-bottom="30px" padding="10px 25px" src="{{ static }}logo.png" target="_blank" title="" width="180px"></mj-image>
+    <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+      <p style="line-height: 18px; margin: 10px 0; text-align: center;font-size:14px;color:#ffffff;font-family:'Times New Roman',Helvetica,Arial,sans-serif">WOMEN&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; MEN&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; {{ .test }}</p>
+    </mj-text>
+    <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="0px 25px" src="{{ static }}test.jpg" target="_blank" title="" width="780px"></mj-image>
+  </mj-column>
+</mj-section>

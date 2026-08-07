@@ -1,0 +1,16 @@
+[Server]
+Host      = "localhost"
+Port      = 8075
+IsDevel   = true
+
+[Renderer]
+PublicWebPath = "http://localhost:8075/mail/"
+WebPath       = "/mail/"
+IsEmbed       = false
+
+[RPC]
+CallerNamespace = ""
+
+[Sentry]
+DSN         = ""
+Environment = ""
